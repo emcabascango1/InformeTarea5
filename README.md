@@ -24,9 +24,9 @@ Analizar los diagramas electricos con el fin de interpretar y representar sus el
 
 ## 2. MARCO TEORICO (RESUMEN)
 
-![]()
+![](https://github.com/emcabascango1/InformeTarea5/blob/main/imagenes/Mapa%20conceptual.png)
 
-![]()
+![](https://github.com/emcabascango1/InformeTarea5/blob/main/imagenes/Ejemplo%20de%20diagrama%20de%20cl%C3%BAster%20-%20Color.jpeg)
 
 ## 3. EXPLICACION  RESOLUCION DE PROBLEMAS 
 
