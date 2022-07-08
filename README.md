@@ -30,7 +30,7 @@ Analizar los diagramas electricos con el fin de interpretar y representar sus el
 
 ## 3. EXPLICACION  RESOLUCION DE PROBLEMAS 
 
-### CAPITULO 7
+### CAPITULO 9
 
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
 
